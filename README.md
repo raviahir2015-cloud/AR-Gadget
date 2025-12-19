@@ -10,7 +10,7 @@ Save money with smart gadgets 💰
 <div class="grid">
 
   <div class="card">
-    <img src="https://via.placeholder.com/300" alt="Smart Watch">
+    <img src="https://Amazon.com/300" alt="Smart Watch">
     <h3>Smart Watch (Bluetooth Calling)</h3>
     <p>Best smart watch under budget with fitness & calling features.</p>
     <p class="price">₹2,999</p>
