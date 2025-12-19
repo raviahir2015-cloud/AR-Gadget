@@ -15,7 +15,7 @@
     .price { font-size:18px; color:#16a34a; font-weight:bold; }
     .btn { display:inline-block; margin-top:10px; background:#2563eb; color:#fff; padding:10px 15px; border-radius:6px; text-decoration:none; }
     .btn:hover { background:#1d4ed8; }
-    footer { background:#0f172a; color:#fff; text-align:center; padding:15px; margin-top:30px; }
+    footer { background:#0f172a; color:#eee; text-align:center; padding:15px; margin-top:30px; }
   </style>
 </head>
 <body>
